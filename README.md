@@ -1,4 +1,4 @@
-# challenge-4-repo
+# BLOG SITE
 
 This repository contains a simple blog website created using JavaScript, HTML, and CSS. The website allows users to create and view blog posts with a username, title, and content. Additionally, it features a light mode and dark mode toggle button for enhanced user experience.
 
